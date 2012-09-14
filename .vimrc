@@ -46,3 +46,9 @@ nnoremap <Right> <C-w>l
 nnoremap <Left> <C-w>h
 nnoremap <Up> <C-w>k
 nnoremap <Down> <C-w>j
+
+inoremap <Space>'' <Space>‘
+inoremap '' ’
+
+inoremap <Space>"" <Space>“
+inoremap "" ”
