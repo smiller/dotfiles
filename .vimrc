@@ -47,10 +47,12 @@ nnoremap <Left> <C-w>h
 nnoremap <Up> <C-w>k
 nnoremap <Down> <C-w>j
 
-inoremap <Space>'' <Space>‘
+inoremap osq<Tab> ‘
+
 inoremap '' ’
 
-inoremap <Space>"" <Space>“
-inoremap "" ”
+inoremap odq<Tab> “
+inoremap cdq<Tab> ”
 
-inoremap <Space>--<Space> <Space>—<Space>
+inoremap em<Tab> —
+inoremap ...<Tab> …
