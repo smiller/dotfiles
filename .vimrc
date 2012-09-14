@@ -52,3 +52,5 @@ inoremap '' ’
 
 inoremap <Space>"" <Space>“
 inoremap "" ”
+
+inoremap <Space>--<Space> <Space>—<Space>
